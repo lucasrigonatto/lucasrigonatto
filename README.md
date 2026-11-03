@@ -21,6 +21,10 @@ JavaScript, TypeScript, React, Next.js, Python, SQL, REST APIs, Supabase, and Ou
 
 My earlier exercises cover [React routing](https://github.com/lucasrigonatto/first-react-app), [API integration](https://github.com/lucasrigonatto/To-Do-List), [editable portfolio calculations](https://github.com/lucasrigonatto/stockportfolio), and [Python fundamentals](https://github.com/lucasrigonatto/Python-Games). The [learning index](https://github.com/lucasrigonatto/altcademy) gives them context.
 
+## Roadmap
+
+[Portfolio Roadmap](https://github.com/users/lucasrigonatto/projects/1) tracks completed improvements, validation evidence, and the next steps for my projects.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/lucasrigonatto/) · [GitHub](https://github.com/lucasrigonatto)
